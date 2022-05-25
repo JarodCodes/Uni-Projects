@@ -1,0 +1,24 @@
+CREATE DATABASE Education
+ON
+(NAME = Education,
+FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\EducationData.mdf',
+SIZE = 20 MB,
+MAXSIZE = UNLIMITED,
+FILEGROWTH = 20%)
+
+USE Education
+GO
+CREATE TABLE School
+(SchoolName VARCHAR(20),
+SchoolLocation VARCHAR(20),
+SchoolDateRegis VARCHAR(40)
+)
+
+USE Education
+GO
+CREATE TABLE Student
+(StudentSurname VARCHAR(20),
+StudentName VARCHAR(20),
+StudentGrade VARCHAR(2),
+StudentAverage INT
+)
