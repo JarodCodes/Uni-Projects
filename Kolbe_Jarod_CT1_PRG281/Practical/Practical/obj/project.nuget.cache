@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3tW84Dv8tcFkapluSuZy+2Rfo7+/+1ykpnVRL2anRS4d3f+kOut1FmSD+wLhacmQl5uWD4rILg57P2Fdl70uqA==",
+  "success": true,
+  "projectFilePath": "H:\\PRG281+2\\Kolbe_Jarod_CT1_PRG281\\Practical\\Practical\\Practical.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

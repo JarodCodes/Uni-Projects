@@ -1,0 +1,13 @@
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.exe
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.deps.json
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.runtimeconfig.json
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.runtimeconfig.dev.json
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.dll
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.pdb
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.AssemblyInfoInputs.cache
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.AssemblyInfo.cs
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.dll
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.pdb
+C:\Users\Jack\Desktop\Kolbe_Jarod_CT1_PRG281\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.genruntimeconfig.cache
