@@ -1,0 +1,25 @@
+GET http://localhost:8000/nanny/view
+###
+GET http://localhost:8000/nanny/view/628736c91fc144ecdb73833c
+###
+POST http://localhost:8000/nanny/add
+Content-Type: application/json
+
+{
+    "name":"Lilly",
+    "experience":"Advanced",
+    "certified":true,
+    "age":30
+}
+###
+DELETE http://localhost:8000/nanny/delete/628736c91fc144ecdb73833c
+###
+PATCH http://localhost:8000/nanny/update/628736c91fc144ecdb73833c
+Content-Type: application/json
+
+{
+    "name":"Abigail",
+    "experience":"Basic",
+    "certified":false,
+    "age":20
+}

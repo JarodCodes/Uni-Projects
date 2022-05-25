@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <% if(nannies !== null && nanniesFilter.length == 0) {%> 
+    <table style="table-layout: fixed; border: 1px; border-style: solid; text-align: center;">
+        <tr>
+            <th>Name</th>
+            <th>Experience</th>
+            <th>Certification</th>
+            <th>Age</th>
+        </tr>
+        <% for(let i=0; i<nannies.length;i++) {%> 
+        <tr>
+            <td><%= nannies[i].name %></td>
+            <td><%= nannies[i].experience %></td>
+            <td><%= nannies[i].certification %></td>
+            <td><%= nannies[i].age %></td>
+        </tr>
+        <% }%> 
+    </table>
+    <% }else if(nanniesFilter.length != 0){ %> 
+        <table style="table-layout: fixed; border: 1px; border-style: solid; text-align: center;">
+            <h1>Filtered List</h1>
+            <tr>
+                <th>Name</th>
+                <th>Experience</th>
+                <th>Certification</th>
+                <th>Age</th>
+            </tr>
+            <% for(let i=0; i<nanniesFilter.length;i++) {%> 
+            <tr>
+                <td><%= nanniesFilter[i].name %></td>
+                <td><%= nanniesFilter[i].experience %></td>
+                <td><%= nanniesFilter[i].certification %></td>
+                <td><%= nanniesFilter[i].age %></td>
+            </tr>
+            <% }%> 
+        </table>
+    <% }else{  %> 
+        <h1>No data</h1>
+        <% } %> 
+</body>
+</html>

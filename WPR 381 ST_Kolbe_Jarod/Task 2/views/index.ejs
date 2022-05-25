@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Add nannie</h1>
+    <form action="view" method="post">
+        <input type="text" name = 'name' required>
+        <select name="experience" id="experience" required>
+            <option value="Basic" selected>Basic</option>
+            <option value="Intermediate">Intermediate</option>
+            <option value="Advanced">Advanced</option>
+        </select>
+        <input type="radio" name = 'certification' value="false" id="uncertified" checked>
+        <label for="uncertified">Uncertified</label><br>
+        <input type="radio" name = 'certification' value="true" id="certified">
+        <label for="certified">Certified</label><br>
+        <input type="number" name = 'age' required>
+        <input type="submit">
+    </form>
+</body>
+</html>
