@@ -1,0 +1,7 @@
+C:\Users\Jack\Desktop\Kolbe_Jarod_PRG1x2_Project2\Question 2\Question 2\bin\Debug\Question 2.exe.config
+C:\Users\Jack\Desktop\Kolbe_Jarod_PRG1x2_Project2\Question 2\Question 2\bin\Debug\Question 2.exe
+C:\Users\Jack\Desktop\Kolbe_Jarod_PRG1x2_Project2\Question 2\Question 2\bin\Debug\Question 2.pdb
+C:\Users\Jack\Desktop\Kolbe_Jarod_PRG1x2_Project2\Question 2\Question 2\obj\Debug\Question 2.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Kolbe_Jarod_PRG1x2_Project2\Question 2\Question 2\obj\Debug\Question 2.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\Kolbe_Jarod_PRG1x2_Project2\Question 2\Question 2\obj\Debug\Question 2.exe
+C:\Users\Jack\Desktop\Kolbe_Jarod_PRG1x2_Project2\Question 2\Question 2\obj\Debug\Question 2.pdb
